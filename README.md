@@ -1,6 +1,6 @@
 Benaura.py is a command line python script built to perform a simple geoparsing task in texts files locally. It was built as part of my PhD thesis entitled "Mapping the Works of Manuel de Pedrolo in Relation to the Post-civil War Catalan Landscape" found here: https://cora.ucc.ie/items/28dca192-daa9-4bf8-948f-652b4abed42b
 
-It is ideal for localised and very specific placename text-mining, when existing geoparsing techniques (linked to online gazeteers) produce too many inacurate results (due to issues such as ambiguiity of placenames, linguistic or localised differences).
+It is ideal for localised and very specific placename text-mining, when existing geoparsing techniques (linked to online gazeteers) produce too many inaccurate results (due to issues such as ambiguiity of placenames, linguistic or localised differences). It is also recommended if looking at mapping abstract/fictional spaces within a corpus.
 
 Benaura.py needs to be provided with an existing placenames.csv file that includes the locations and coordinates that you want to extract from the text. See "placenames_template.csv" for an example of the format needed for that csv file to work.
 
